@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello 👋, I'm <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
+<h1 align="center">Hola 👋, Soy <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
 </div>
 <img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/ausa-banner.png">
 
@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ Sobre mi
 
-Soy César Ausa y renové mi carrera profesional a los 32 años para adentrarme en el mundo de la programación. Actualmente soy Full-Stack Developer Jr con enfoque en desarrollo Back-End, apasionado por el conocimiento y la implementación de nuevas tecnologías.
+Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme en el mundo de la programación. Actualmente soy Full-Stack Developer Jr con enfoque en desarrollo Back-End, apasionado por el conocimiento y la implementación de nuevas tecnologías.
 
 - 💻 Actualmente estoy aprendiendo todo sobre tecnologías Backend.<br>
 - 🔆 Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.<br>
