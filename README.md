@@ -18,8 +18,16 @@
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+## About me
+
+I am Cesar Ausa and I am a Full-Stack Developer Jr with a focus on Back-End development, passionate about knowledge and implementation of new technologies.
+
+- 💻 I’m currently learning everything about Backend technologies.
+- 🔆 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 📈 +1440 hours of development
 
 
 <!--
