@@ -48,8 +48,7 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 </a>
 </p>
 
-<p>Proyecto desarrollado enteramente en <strong>Typescript</strong>
- en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Para el Front se implementó <strong>React</strong> para el manejo de estados en conjunto con <strong>Boostrap</strong> todo el código se encuentra disponible para que lo puedan visualizar.
+<p>Proyecto desarrollado enteramente en <strong>Typescript</strong> en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Para el Front se implementó <strong>React</strong> con <strong>Redux</strong> para el manejo de estados en conjunto con <strong>Boostrap</strong> con CSS para el diseño, todo el código se encuentra disponible para que lo puedan visualizar.
  </p>
 
 </div>
@@ -59,7 +58,7 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 <h3 align="center">Web-Movies +Play</h3>
 <div align="center">                                       
 <a href="https://github.com/DEV-AusA/Pagina-Peliculas-mas-Play" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/movies%2BPlay.png" width="400" alt="Web-Movies +Play"></a>
-<br>
+
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
