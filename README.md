@@ -26,9 +26,9 @@
 
 Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme en el mundo de la programación. Actualmente soy Full-Stack Developer Jr con enfoque en desarrollo Back-End, apasionado por el conocimiento y la implementación de nuevas tecnologías.
 
-- 💻 Actualmente estoy aprendiendo todo sobre tecnologías Backend.<br>
-- 🔆 Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.<br>
-- 📈 +1440 horas de desarrollo.<br>
+- 💻 Actualmente estoy terminando la carrera de Especializacion de Back-End en Henry, aprendiendo todo lo referente a tecnologías actuales para Backend.<br>
+- 🔆 Metas futuras: Aportar mis conocimientos adquiridos a mi futuro lugar de trabajo, a su vez seguir desarrollandome profesionalmente adquiriendo experiencia y nuevos conocimientos.<br>
+- 📈 +1890 horas de desarrollo.<br>
 
 ## 🛠️ Proyectos
 <table>
