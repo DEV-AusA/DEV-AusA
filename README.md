@@ -33,7 +33,7 @@ Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme 
 ## 🛠️ Proyectos
 <table>
 <td width="50%">
-<h3 align="center">Bank-Web-Project</h3>
+<h3 align="center">Bank-AusA Web-Project</h3>
 <div align="center">
 <a href="https://github.com/DEV-AusA/Bank-Web-Project" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/ausaBank.png" width="400" alt="Bank-Web-Project"></a>
 
@@ -48,14 +48,15 @@ Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme 
 </a>
 </p>
 
-<p>Proyecto desarrollado enteramente en <strong>Typescript</strong> en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Para el Front se implementó <strong>React</strong> con <strong>Redux</strong> para el manejo de estados en conjunto con <strong>Boostrap</strong> con CSS para el diseño, todo el código se encuentra disponible para que lo puedan visualizar.
+<p><strong>Objetivo principal</strong>: Gestion total de los turnos propios de un usuario, gestion total de los turnos de todos los usuarios a traves de un usuario Admin. <br>
+<strong>Detalles</strong>: Proyecto desarrollado enteramente en <strong>Typescript</strong> en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Para el Front se implementó <strong>React</strong> con <strong>Redux</strong> para el manejo de estados en conjunto con <strong>Boostrap</strong> con CSS para el diseño, todo el código se encuentra disponible para que lo puedan visualizar.
  </p>
 
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Web-Movies +Play</h3>
+<h3 align="center">+Play Web-Movies</h3>
 <div align="center">                                       
 <a href="https://github.com/DEV-AusA/Pagina-Peliculas-mas-Play" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/movies%2BPlay.png" width="400" alt="Web-Movies +Play"></a>
 
@@ -72,7 +73,8 @@ Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme 
 </a>
 </p>
 
-<p>Proyecto desarrollado enteramente en <strong>Javascript</strong> en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>MongoDB</strong> mediante <strong>Mongoose</strong>. Utilizando una API externa para la obtencion de los datos de las movies. Para el Front se implementó <strong>Bootstrap</strong> en conjunto con <strong>CSS</strong> todo el código se encuentra disponible para que lo puedan visualizar.
+<p><strong>Objetivo principal</strong>: Ofrecer una experiencia atractiva y personalizada que haga que los usuarios se sientan bienvenidos y les ayude a descubrir fácilmente una nueva pelicula para ver.<br>
+<strong>Detalles</strong>: Proyecto desarrollado enteramente en <strong>Javascript</strong> en conjunto con <strong>Express</strong>, para la DB se utilizó <strong>MongoDB</strong> mediante <strong>Mongoose</strong>. Utilizando una API externa para la obtencion de los datos de las movies. Para el Front se implementó <strong>Bootstrap</strong> en conjunto con <strong>CSS</strong> todo el código se encuentra disponible para que lo puedan visualizar.
 </p>
 
 </div>                                                             
@@ -103,13 +105,14 @@ Soy César Ausa y renové mi carrera profesional a los 33 años para adentrarme 
 </a>
 </p>
 
-<p>Proyecto desarrollado enteramente en <strong>NestJS</strong> en conjunto con <strong>Typesript</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Esta API está diseñada para proporcionar acceso a una variedad de recursos relacionados con:<br>
+<p><strong>Objetivo principal</strong>: Proporcionar una plataforma sólida y fácil de usar para que los usuarios tengan una experiencia unica de compra y puedan gestionar eficientemente todos los aspectos del ecommerce, desde la busqueda de productos hasta la creacion de una orden de compra.<br>
+<strong>Detalles</strong>: Proyecto desarrollado enteramente en <strong>NestJS</strong> en conjunto con <strong>Typesript</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Esta API está diseñada para proporcionar acceso a una variedad de recursos relacionados con:<br>
 - Gestión de productos: Esto abarca poder realizar el CRUD completo de los productos en la plataforma.<br>
-- Gestión de usuarios: Abarca desde la creación de un usuario nuevo hasta la eliminación.<br>
+- Gestión de usuarios: El flujo va desde la creación de un usuario nuevo hasta la modificacion de datos del propio usuario.<br>
 - Gestión de ordenes de compra: Poder gestionar completamente una orden de compra con sus productos perteneciente a un usuario.
- todo el código se encuentra disponible para que lo puedan visualizar.<br>
-- Implementacion de IA para insercion de un new product en la DB.<br>
+- Implementacion de IA para insercion de un nuevo producto en la DB.<br>
 - Busqueda de articulos mediante la incorporación de IA.<br>
+ Todo el código se encuentra disponible para que lo puedan visualizar.<br>
 
 </p>
 
