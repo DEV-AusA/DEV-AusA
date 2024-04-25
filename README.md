@@ -59,6 +59,7 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 <h3 align="center">Web-Movies +Play</h3>
 <div align="center">                                       
 <a href="https://github.com/DEV-AusA/Pagina-Peliculas-mas-Play" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/movies%2BPlay.png" width="400" alt="Web-Movies +Play"></a>
+<br>
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
