@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello 👋, I'm <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
-<img src="https://res.cloudinary.com/dcqdilhek/image/upload/fl_preserve_transparency/v1714002925/ausa-banner_cpryai.jpg">
+<img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/utils/ausa-banner.png">
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/DEV-AusA?style=social)](https://github.com/DEV-AusA) -->
 
