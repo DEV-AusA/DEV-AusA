@@ -1,6 +1,5 @@
-👋
 <div align="center">
-<h1 align="center">Hola 👋, soy <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
+<h1 align="center">Hello 👋, I'm <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
 <img src="https://res.cloudinary.com/dcqdilhek/image/upload/fl_preserve_transparency/v1714002925/ausa-banner_cpryai.jpg">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
