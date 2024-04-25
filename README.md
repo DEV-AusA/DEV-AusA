@@ -58,7 +58,6 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 <h3 align="center">Web-Movies +Play</h3>
 <div align="center">                                       
 <a href="https://github.com/DEV-AusA/Pagina-Peliculas-mas-Play" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/movies%2BPlay.png" width="400" alt="Web-Movies +Play"></a>
-</div>
 
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -86,6 +85,7 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 <h3 align="center">E-commerce Back-End API Project</h3>
 <div align="center">
 <a href="https://github.com/DEV-AusA/PI-NestJS-Ecommerce" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/ecommerce-temp.png" width="400" alt="E-commerce Back-End Project"></a>
+</div>
 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
