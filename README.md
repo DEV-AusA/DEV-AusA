@@ -22,15 +22,15 @@
 
 
 
-## 🙋‍♂️ About me
+## 🙋‍♂️ Sobre mi
 
-I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter the world of programming. I'm currently a Full-Stack Developer Jr with a focus on Back-End development, passionate about knowledge and implementation of new technologies.
+Soy César Ausa y renové mi carrera profesional a los 32 años para adentrarme en el mundo de la programación. Actualmente soy Full-Stack Developer Jr con enfoque en desarrollo Back-End, apasionado por el conocimiento y la implementación de nuevas tecnologías.
 
-- 💻 I'm currently learning everything about Backend technologies.<br>
-- 🔆 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
-- 📈 +1440 hours of development.<br>
+- 💻 Actualmente estoy aprendiendo todo sobre tecnologías Backend.<br>
+- 🔆 Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.<br>
+- 📈 +1440 horas de desarrollo.<br>
 
-## 🛠️ Personal Projects
+## 🛠️ Proyectos
 <table>
 <td width="50%">
 <h3 align="center">Bank-Web-Project</h3>
