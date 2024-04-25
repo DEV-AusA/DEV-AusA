@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hello 👋, I'm <a href="https://github.com/DEV-AusA">DEV-AusA</a> </h1>
+</div>
 <img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/utils/ausa-banner.png">
-
-<!-- [![GitHub followers](https://img.shields.io/github/followers/DEV-AusA?style=social)](https://github.com/DEV-AusA) -->
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,23 +23,16 @@
 
 I am Cesar Ausa and I am a Full-Stack Developer Jr with a focus on Back-End development, passionate about knowledge and implementation of new technologies.
 
-- 💻 I’m currently learning everything about Backend technologies.
-- 🔆 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-- 📈 +1440 hours of development
+- 💻 I’m currently learning everything about Backend technologies.<br>
+- 🔆 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
+- 📈 +1440 hours of development.<br>
 
 
-<!--
-**DEV-AusA/DEV-AusA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ &nbsp;GitHub Analytics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/DEV-AusA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DEV-AusA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DEV-AusA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
