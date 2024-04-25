@@ -87,6 +87,7 @@ I'm Cesar Ausa and I renewed my professional career at the age of 32 to enter th
 <a href="https://github.com/DEV-AusA/PI-NestJS-Ecommerce" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/DEV-AusA/main/assets/ecommerce-temp.png" width="400" alt="E-commerce Back-End Project"></a>
 </div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
