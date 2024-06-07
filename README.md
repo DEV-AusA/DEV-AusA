@@ -65,12 +65,14 @@ Renové mi carrera profesional a los 33 años para adentrarme en el mundo de la 
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socketio">
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary">
 
+<br>
+
 <p align="center">
 <a href="https://github.com/DEV-AusA/SIH-BackEnd-API-Rest" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO BACKEND-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Codigo Back">
+<img src="https://img.shields.io/badge/CÓDIGO BACK-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Codigo Back">
 </a>
 <a href="https://github.com/DEV-AusA/SIH-FrotnEnd-WEB-APP" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO FRONTEND-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Codigo Front">
+<img src="https://img.shields.io/badge/CÓDIGO FRONT-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Codigo Front">
 </a>
 <a href="https://sih-back.onrender.com/api" target="_blank">
 <img src="https://img.shields.io/badge/-API DOCUMENTACION-07844b?style=for-the-badge&logo=swagger&logoColor=010101" alt="Swagger">
