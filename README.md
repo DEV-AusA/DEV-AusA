@@ -88,6 +88,22 @@ Renové mi carrera profesional a los 33 años para adentrarme en el mundo de la 
  Tanto el código como la documentacion de la API, se encuentran disponibles para que lo puedan visualizar.<br>
 </p>
 
+<p align="center">
+<h3>Integrantes del proyecto</h3>
+<a href="https://github.com/ManuelGuaicaraDagger" target="_blank">
+<img src="https://img.shields.io/badge/Manuel Guaicara-0077b6?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/JPRuedaZ" target="_blank">
+<img src="https://img.shields.io/badge/Pablo Rueda-0077b6?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/AlejandroExeAbalosF" target="_blank">
+<img src="https://img.shields.io/badge/Exequiel Abalos-0077b6?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/AlejandroA03" target="_blank">
+<img src="https://img.shields.io/badge/Alejandro Alzate-0077b6?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
 </div>                                                                                  
 </td>       
 </table>
@@ -153,6 +169,7 @@ Renové mi carrera profesional a los 33 años para adentrarme en el mundo de la 
  </p>
 
 </div>
+
 </td>
 
 <td width="50%">
