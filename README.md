@@ -31,10 +31,65 @@
 Renové mi carrera profesional a los 33 años para adentrarme en el mundo de la programación. Actualmente soy Full-Stack Developer con enfoque en desarrollo Back-End, apasionado por el conocimiento y la implementación de nuevas tecnologías.
 
 - 💻 Actualmente estoy aprendiendo un lenguaje nuevo, en este caso Java + Spring Boot, aprendiendo todo lo referente a tecnologías actuales para Backend.<br>
-- 🔆 Metas futuras: Aportar mis conocimientos adquiridos a mi futuro lugar de trabajo, a su vez seguir desarrollandome profesionalmente adquiriendo experiencia y nuevos conocimientos.<br>
-- 📈 +2050 horas de desarrollo.<br>
+- 🔆 Metas futuras: Aportar mis conocimientos adquiridos a mi futuro lugar de trabajo, a su vez seguir desarrollandome profesionalmente adquiriendo experiencia y nuevos conocimientos.
 
 ## 🛠️ Proyectos
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">Talent Place</h3>
+<div align="center">
+<a href="https://talent-place.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/DEV-AusA/talentplace-frontend-WEB-APP/main/src/assets/assets-img/portada.jpg" width="400" alt="TalentPlace Project"></a>
+
+<p>
+<a href="https://talent-place.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/demo%20live%20-121013?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo Live">
+</a>
+</p>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
+
+<br>
+
+<p align="center">
+<a href="https://github.com/igrowker/i002-talentplace-back" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-BACK-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Back">
+</a>
+<a href="https://github.com/igrowker/i002-talentplace-front" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-FRONT-374c57?style=for-the-badge&logo=github&logoColor=ffbd5c" alt="Front">
+</a>
+<a href="https://i002-donatello-back-java-latest-z9hn.onrender.com/api/docs" target="_blank">
+<img src="https://img.shields.io/badge/-API DOCUMENTACION-07844b?style=for-the-badge&logo=swagger&logoColor=010101" alt="Swagger">
+</a>
+</p>
+
+<p><strong>Objetivo principal</strong>: Plataforma creada exclusivamente para Desarrolladores Junior y para empresas que necesitan estos talentos, reduciendo así la brecha entre ambos. El objetivo principal es generar una conexión directa de manera ágil y amigable, creando una interfaz atractiva y brindando una experiencia única para el usuario desde cualquier tipo de dispositivo.
+<br>
+<strong>Detalles</strong>: Proyecto desarrollado enteramente en <strong>NestJS</strong> y <strong>NextJS</strong> en conjunto con <strong>Typesript</strong> y <strong>React</strong>, para la DB se utilizó <strong>PostgreSQL</strong> mediante <strong>TypeORM</strong>. Esta API está diseñada para proporcionar acceso a una variedad de recursos relacionados con:<br>
+
+- Gestión de usuarios: Esto abarca poder realizar el CRUD completo de los usuarios en la plataforma.<br>
+- Gestión de usuarios tipo empresa: El usuario de tipo Empresa tambien podrá realizar el CRUD completo en la plataforma.<br>
+
+ Tanto el código como la documentacion de la API, se encuentran disponibles para que lo puedan visualizar.<br>
+</p>
+
+</div>                                                                                  
+</td>       
+</table>
+
 <table>
 <tr>
 <td width="100%">
